@@ -13,7 +13,7 @@ def binary_search (sorted_list, begin, end, key):
         return middle_index
 
 if __name__ == '__main__':
-    print ("Index of 15:", binary_search([1,3,8,11,15,17,20], 0, 7, 15))
-    print ("Index of 1:", binary_search([1,3,8,11,15,17,20], 0, 7, 1))
-    print ("Index of 20:", binary_search([1,3,8,11,15,17,20], 0, 7, 20))
-    print ("Index of 11:", binary_search([1,3,8,11,15,17,20], 0, 7, 11))
+    print ("Index of 15:", binary_search([1,3,8,11,15,17,20], 0, 6, 15))
+    print ("Index of 1:", binary_search([1,3,8,11,15,17,20], 0, 6, 1))
+    print ("Index of 20:", binary_search([1,3,8,11,15,17,20], 0, 6, 20))
+    print ("Index of 11:", binary_search([1,3,8,11,15,17,20], 0, 6, 11))
