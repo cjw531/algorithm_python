@@ -11,6 +11,7 @@ Algorithm Implementations in Python
 | Heap Sort | [`heap_sort.py`][heap_sort]   | 8/27/2020 (GMT+9) | 8/27/2020 (GMT+9) |
 | BFS & Adjacency List | [`bfs_adj_list.py`][bfs]   | 8/31/2020 (GMT+9) | 8/31/2020 (GMT+9) |
 | BFS Tree Traversal | [`bfs_binary_tree.py`][bfs_tree]   | 8/31/2020 (GMT+9) | 8/31/2020 (GMT+9) |
+| BFS Distance | [`bfs_distance.py`][bfs_dist]   | 8/31/2020 (GMT+9) | 8/31/2020 (GMT+9) |
 
 <!---Reference Links-->
 [binary_search]:../master/binary_search.py
@@ -20,3 +21,4 @@ Algorithm Implementations in Python
 [heap_sort]:../master/heap_sort.py
 [bfs]:../master/bfs_adj_list.py
 [bfs_tree]:../master/bfs_binary_tree.py
+[bfs_dist]:../master/bfs_distance.py
