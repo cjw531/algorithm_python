@@ -12,6 +12,7 @@ Algorithm Implementations in Python
 | BFS & Adjacency List | [`bfs_adj_list.py`][bfs]   | 8/31/2020 (GMT+9) | 8/31/2020 (GMT+9) |
 | BFS Tree Traversal | [`bfs_binary_tree.py`][bfs_tree]   | 8/31/2020 (GMT+9) | 8/31/2020 (GMT+9) |
 | BFS Distance | [`bfs_distance.py`][bfs_dist]   | 8/31/2020 (GMT+9) | 8/31/2020 (GMT+9) |
+| DFS Graph Traversal | [`dfs_graph.py`][dfs_graph]   | 8/31/2020 (GMT+9) | 8/31/2020 (GMT+9) |
 
 <!---Reference Links-->
 [binary_search]:../master/binary_search.py
@@ -22,3 +23,4 @@ Algorithm Implementations in Python
 [bfs]:../master/bfs_adj_list.py
 [bfs_tree]:../master/bfs_binary_tree.py
 [bfs_dist]:../master/bfs_distance.py
+[dfs_graph]:../master/dfs_graph.py
