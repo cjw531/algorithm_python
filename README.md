@@ -8,7 +8,7 @@ Algorithm Implementations in Python
 | Binary Search | [`binary_search.py`][binary_search] | 8/24/2020 (GMT+9) | 8/24/2020 (GMT+9) |
 | Selection Sort | [`selection_sort.py`][selection_sort]| 8/26/2020 (GMT+9) | 8/26/2020 (GMT+9) |
 | Insertion Sort | [`insertion_sort.py`][insertion_sort]| 8/27/2020 (GMT+9) | 8/27/2020 (GMT+9) |
-| Merge Sort | [`merge_sort.py`][merge_sort]   | 8/25/2020 (GMT+9) | 8/25/2020 (GMT+9) |
+| Merge Sort | [`merge_sort.py`][merge_sort]   | 8/25/2020 (GMT+9) | 12/30/2020 (GMT+9) |
 | Heap Sort | [`heap_sort.py`][heap_sort]   | 8/27/2020 (GMT+9) | 8/27/2020 (GMT+9) |
 | BFS & Adjacency List | [`bfs_adj_list.py`][bfs]   | 8/31/2020 (GMT+9) | 8/31/2020 (GMT+9) |
 | BFS Tree Traversal | [`bfs_binary_tree.py`][bfs_tree]   | 8/31/2020 (GMT+9) | 8/31/2020 (GMT+9) |
