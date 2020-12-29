@@ -16,7 +16,7 @@ def merge (left, right):
     result = []
 
     # as long as both list have elements left
-    while (len(left) > 0 and len(right)) > 0:
+    while (len(left) > 0 and len(right) > 0):
         # compare 1st elements in each list, then append
         if (left[0] <= right[0]):
             result.append(left.pop(0))
