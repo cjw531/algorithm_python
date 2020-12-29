@@ -19,6 +19,13 @@ def hanoi (disc, start, end, middle):
         print(start, end)
         hanoi(disc - 1, middle, end, start)
 
+def palindrome(string):
+    if (len(string) < 2):
+        return True
+    else:
+        return ((string[0] == string[len(string) - 1]) and
+                palindrome(string[1:len(string) - 1]))
+
 if __name__ == '__main__':
     print("Enter a number and get n!")
     a = int(input())
@@ -32,3 +39,7 @@ if __name__ == '__main__':
     a = int(input())
     print("Number of movement:", (2 ** a) - 1)
     hanoi(a, 1, 3, 2)
+
+    print("Enter a string:")
+    a = input()
+    print (palindrome(a))
