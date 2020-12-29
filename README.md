@@ -4,7 +4,7 @@ Algorithm Implementations in Python
 ## Index of Algorithm
 | **Name** | **File** | **Upload Date** | **Modified Date**
 |:-------|:--------------------------------|:-----|:---------|
-| Recursion (Fibo, Factorial, Hanoi) | [`recursion.py`][recursion] | 12/30/2020 (GMT+9) | 12/30/2020 (GMT+9) |
+| Recursion (Fibo, Factorial, Hanoi, Palindrome) | [`recursion.py`][recursion] | 12/30/2020 (GMT+9) | 12/30/2020 (GMT+9) |
 | Binary Search | [`binary_search.py`][binary_search] | 8/24/2020 (GMT+9) | 8/24/2020 (GMT+9) |
 | Selection Sort | [`selection_sort.py`][selection_sort]| 8/26/2020 (GMT+9) | 8/26/2020 (GMT+9) |
 | Insertion Sort | [`insertion_sort.py`][insertion_sort]| 8/27/2020 (GMT+9) | 8/27/2020 (GMT+9) |
